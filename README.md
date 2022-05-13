@@ -11,3 +11,5 @@ praveen_flood_fill.cpp
 praveen_suth_hodge.cpp
 
 sutherland_hodgeman.cpp
+
+praveen_yx.cpp
