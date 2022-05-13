@@ -15,3 +15,5 @@ sutherland_hodgeman.cpp
 praveen_yx.cpp
 
 praveen_cohen_sutherland.cpp
+
+active_edge_list.cpp
